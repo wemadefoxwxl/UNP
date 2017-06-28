@@ -1,0 +1,2 @@
+select 的简单用法
+在客户端select监视stdin和通信套接字的可读事件
