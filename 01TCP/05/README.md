@@ -1,0 +1,2 @@
+1.用recv的MSG_PEEK选项来封装readline来避免粘包问题
+2.getiplist一些socket函数的使用
